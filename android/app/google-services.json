@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668043814444",
+    "project_id": "meet-book-cd1cd",
+    "storage_bucket": "meet-book-cd1cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668043814444:android:282c07912b50838f3c9389",
+        "android_client_info": {
+          "package_name": "com.entertainment.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668043814444-87hrjlhf1kfrb7dqaifgtnjuhsrksapl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiHp_hLzQbGiI31Lywd4HrAjY6RuLp564"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668043814444-87hrjlhf1kfrb7dqaifgtnjuhsrksapl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
